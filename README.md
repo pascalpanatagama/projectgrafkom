@@ -36,10 +36,10 @@ Anda adalah salah satu petugas medis di rumah sakit tersebut. Melihat kejadian t
 Tak terasa sudah 4 hari anda bersembunyi dan tidak makan apapun kecuali meminum air putih yang sempat anda bawa. Lampu rumah sakit telah dihancurkan semua oleh zombie, karena mereka takut akan cahaya. Anda pun membuat sebuah obor mengggunakan sisa-sisa kayu serta korek api yang ada di saku jaket anda. Anda pun memutuskan untuk keluar dari rumah sakit ini. Karena, jika anda tidak melarikan diri dari rumah sakit ini, cepat atau lambat anda pun akan mati juga.
 
 # Rules
-Menghindari para zombie
-Karakter mati/darah berkurang apabila terserang zombie
-Karakter mati/darah berkurang apabila terkena jebakan
-level selesai ketika sudah sampai pintu keluar
+1. Menghindari para zombie
+2. Karakter mati/darah berkurang apabila terserang zombie
+3. Karakter mati/darah berkurang apabila terkena jebakan
+4. level selesai ketika sudah sampai pintu keluar
 
 # Goals
 Keluar dari rumah sakit
