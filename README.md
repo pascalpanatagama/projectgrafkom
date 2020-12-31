@@ -38,7 +38,6 @@ Tak terasa sudah 4 hari anda bersembunyi dan tidak makan apapun kecuali meminum 
 # Rules
 1. Menghindari para zombie
 2. Karakter mati/darah berkurang apabila terserang zombie
-3. Karakter mati/darah berkurang apabila terkena jebakan
 4. level selesai ketika sudah sampai pintu keluar
 
 # Goals
