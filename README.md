@@ -44,6 +44,14 @@ Tak terasa sudah 4 hari anda bersembunyi dan tidak makan apapun kecuali meminum 
 # Goals
 Keluar dari rumah sakit
 
+# Asset
+1. https://assetstore.unity.com/packages/3d/characters/humanoids/zombie-30232 
+2. https://assetstore.unity.com/packages/3d/handpainted-keys-42044 
+3. https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2018-4-32351
+4. https://assetstore.unity.com/packages/3d/environments/hospital-horror-pack-44045 
+5. https://assetstore.unity.com/packages/audio/sound-fx/creatures/free-zombie-character-sounds-141740
+6. https://assetstore.unity.com/packages/audio/ambient/25-free-ambient-horror-sounds-68161 
+
 # Tampilan Game
 
 ![1](https://user-images.githubusercontent.com/60166788/103476136-b84f8200-4de5-11eb-8463-66df419ca71a.png)
