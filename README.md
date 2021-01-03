@@ -42,3 +42,11 @@ Tak terasa sudah 4 hari anda bersembunyi dan tidak makan apapun kecuali meminum 
 
 # Goals
 Keluar dari rumah sakit
+
+# Tampilan Game
+
+![1](https://user-images.githubusercontent.com/60166788/103476136-b84f8200-4de5-11eb-8463-66df419ca71a.png)
+![2](https://user-images.githubusercontent.com/60166788/103476151-cb625200-4de5-11eb-9af1-8aa4d67fd6f3.png)
+![3](https://user-images.githubusercontent.com/60166788/103476153-cdc4ac00-4de5-11eb-8a09-0c764cb57ebb.png)
+![4](https://user-images.githubusercontent.com/60166788/103476155-cf8e6f80-4de5-11eb-8555-544d0d1bcef3.png)
+![5](https://user-images.githubusercontent.com/60166788/103476157-d1583300-4de5-11eb-9751-ab22e66997fc.png)
