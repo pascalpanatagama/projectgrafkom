@@ -52,6 +52,9 @@ Keluar dari rumah sakit
 5. https://assetstore.unity.com/packages/audio/sound-fx/creatures/free-zombie-character-sounds-141740
 6. https://assetstore.unity.com/packages/audio/ambient/25-free-ambient-horror-sounds-68161 
 
+# Builds
+[Builds data game](https://github.com/pascalpanatagama/projectgrafkom/tree/main/Escape3DFPS/Builds/Windows/x86)
+
 # Tampilan Game
 
 ![1](https://user-images.githubusercontent.com/60166788/103476136-b84f8200-4de5-11eb-8463-66df419ca71a.png)
